@@ -91,11 +91,9 @@ Include relevant screenshots from the `images/` folder, such as:
 - DAG execution graph  
 - Task logs or success states  
 
-Example (Markdown syntax):
+### Images:
 
-```markdown
 ![Airflow UI](https://github.com/Atreyaa-Avs/FDE_Lab/blob/e2daeb064831dfe19a0742d8a460903f919aa7a9/Lab6/image_2.png)
 ![DAG Run](https://github.com/Atreyaa-Avs/FDE_Lab/blob/e2daeb064831dfe19a0742d8a460903f919aa7a9/Lab6/image_3.png)
-```
 
 ---
