@@ -94,8 +94,8 @@ Include relevant screenshots from the `images/` folder, such as:
 Example (Markdown syntax):
 
 ```markdown
-![Airflow UI](Lab6/image_2.png)
-![DAG Run](Lab6/image_3.png)
+![Airflow UI](image_2.png)
+![DAG Run](image_3.png)
 ```
 
 ---
